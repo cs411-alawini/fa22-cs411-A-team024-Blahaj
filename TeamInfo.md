@@ -2,18 +2,19 @@
 
 ## Basic Information
 
- |   Info       |   Description |
- |--------------|---------------|
- |TeamID        |    Team-024   |
- |TeamName      |    Blahaj     |
- |Captain       |               |
- |Captain       |
- |Member1       |
- |Member2       |
- |Member3       |
- |Member3       |
- |Member4       |
- |Member4       |
+ |   Info       |   Description         |
+ |--------------|-----------------------|
+ |TeamID        | Team-024              |
+ |TeamName      | Blahaj                |
+ |Captain       | Kevin Dsouza          |
+ |Captain       | kevind8@illinois.edu  |
+ |Member1       | Siddharth Sanjay Salvi|
+ |Member1       | ss184@illinois.edu    |
+ |Member2       | Preet Sanghavi        |
+ |Member2       | ps72@illinois.edu     |
+ |Member3       | Sristi Ingleshwar     |
+ |Member3       | sristii2@illinois.edu |
+ 
  
  
  ## Project Information
