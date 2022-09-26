@@ -21,7 +21,7 @@
 
 |   Info      |        Description     |
 | ----------- | ---------------------- |
-|  Title      |       ProjectTitle     |
+|  Title      |McKinley Healthcare system|
 | System URL  |      link_to_system    |
 | Video Link  |      link_to_video     |
 
