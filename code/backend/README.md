@@ -1,1 +1,0 @@
-# healthcare-db-api
