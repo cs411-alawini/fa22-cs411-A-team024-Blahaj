@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Judson&family=Londrina+Outline&family=Playfair+Display+SC&family=Rosario:wght@300&family=Rozha+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Dancing+Script|Great+Vibes|Josefin+Sans|Kumar+One&display=swap');
+
+.desc1{
+
+    font-size:1.8vw;
+    font-family: 'Josefin Sans', sans-serif;
+   font-weight:400;
+  font-family: 'Great Vibes',cursive;
+    color: #F65798;
+    text-align: center;
+  }
+
+.heading{
+    font-family: 'Rozha One', sans-serif;
+    letter-spacing: 3px;
+    
+}
+
+body{
+  background-color:"whitesmoke"
+}
+
+.titlepage{
+
+  font-size:30px;
+  font-family: 'Josefin Sans', sans-serif;
+  letter-spacing: 3px;
+  line-height: 2px;
+  font-weight:200;
+  text-transform: uppercase;
+  color: #c9ab81;
+  text-align: center;
+}
+
+.name{
+
+  
+  font-family: 'Josefin Sans', sans-serif;
+  letter-spacing: 3px;
+  
+  text-transform: uppercase;
+ 
+  
+}
+
+.navlist{
+
+  font-size:30px;
+  font-family: 'Josefin Sans', sans-serif;
+  letter-spacing: 3px;
+  line-height: 2px;
+  font-weight:200;
+  text-transform: uppercase;
+  color: #c9ab81;
+  
+}
+
+
+.tablehead{
+
+ 
+  font-family: 'Josefin Sans', sans-serif;
+  letter-spacing: 3px;
+  
+  font-weight:200;
+  
+ 
+  
+}
+
